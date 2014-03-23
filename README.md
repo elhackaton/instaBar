@@ -1,30 +1,25 @@
-Proyecto de  Ejemplo
-====================
-
 Componentes del Equipo
 ---------------------
 
-(Máximo 4 integrantes por grupo)
+Equipo 8
 
-+ Nombre del integrante #1 (Desarrollo y Sistemas)
-+ Nombre del integrante #4 (Sistemas)
-+ Nombre del integrante #2 (Diseñador)
-+ Nombre del integrante #3 (Maquetadora)
++ David García Teruel #1 (diseño gráfico)
++ Curro Lucas #2 (contenidos)
++ Juan De Dios Martos #3 (Desarollo)
++ Enrique Ramos #4 (Sistemas)
 
 Descripción
 -------------
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+En el sector de la hostelería es muy difícil planificar los turnos adaptando oferta a demanda, ya que se dan picos de actividad no prevista, o bajas laborales inesperadas. Con la aplicación InstaBar pretendemos, gracias a la tecnología GPS, poner en contacto a empresarios de la hostelería y el ocio nocturno que necesitan trabajadores de última hora, con trabajadores del sector ubicados en las inmediaciones.
 
 Estado del desarrollo actual
 ----------------------------
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Desarrollo del interfaz en fase de borrador
 
 Especificaciones Técnicas
 --------------------------
-+ Lenguajes de programación utilizados
-+ Sistema de bases de datos
-+ Etc...
+App Android e iOS + web
 
 Licencia
 ---------
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+GPL3
